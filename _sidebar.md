@@ -8,6 +8,9 @@
 
   * [常用查询](./docs/Mysql/常用查询.md)
 * Linux
+
+  * [基本命令](./docs/Linux/基本命令.md)
+
 * Nginx
 * Redis
 * MQ
