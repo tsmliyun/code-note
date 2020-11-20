@@ -23,5 +23,10 @@ composer config --unset repos.packagist
 
 ```
 
+### 输出更新日志
+```linux
+composer -vvv install
+```
+
 
 
